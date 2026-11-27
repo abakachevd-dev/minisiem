@@ -40,4 +40,4 @@ Thresholds are fixed and tuned on synthetic data, so real logs will need tuning.
 
 Windows event logs, rules in YAML, GeoIP enrichment, alert export to JSON, and correlation across web and SSH activity from the same IP.
 
-![PhishLens report](images/report.png)
+![MiniSIEM dashboard](images/dashboard.png)
